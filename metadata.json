@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Life Change Coin Payment Simulator",
+  "description": "Simulator e-commerce dan sistem pembayaran cryptocurrency dengan kalkulator kurs, invoice QR, dan pelacakan blockchain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
